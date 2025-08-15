@@ -3,7 +3,7 @@ The created repository is a storage space for your projects, allowing you to man
 
 ## 🚰 Get Free Sepolia ETH (Testnet Gas)
 
-If you need Sepolia ETH for gas fees on the Sepolia test network, you can use these faucets:
+If you need Sepolia ETH for gas fees on the Sepolia test network, you can use these faucet:
 
 1. **Alchemy Sepolia Faucet** – [https://sepoliafaucet.com/](https://sepoliafaucet.com/)  
    Login with GitHub or Google and request Sepolia ETH once per day.
